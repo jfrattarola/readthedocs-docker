@@ -18,9 +18,10 @@ Built images are uploaded to [index.docker.io][1]
  - username/password for admin:
    - `username` is `admin`
    - `password` is `admin`
- - to login, visit [http://&lt;your server ip address&gt;:8000/admin]
+ - to login, visit [http://&lt;your server ip address&gt;:8000/admin][4]
 
   [0]: http://readthedocs.org
   [1]: https://index.docker.io/u/shaker/
   [2]: http://docs.docker.io/en/latest/ "docs.docker.io"
   [3]: http://127.0.0.1:8000/
+  [4]: http://127.0.0.1:8000/admin
